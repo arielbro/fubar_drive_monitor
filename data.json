@@ -1,0 +1,12 @@
+{
+  "donations": {
+    "current": 0,
+    "goal": 15000,
+    "label": "Annual Fund"
+  },
+  "members": {
+    "current": 0,
+    "goal": 15,
+    "label": "2025 Members"
+  }
+}
